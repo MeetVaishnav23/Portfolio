@@ -482,7 +482,7 @@ body.light-theme {
   margin-bottom: 2rem;
   padding: 20px; 
   border-radius: 10px;
-  background-color: var(--container-color); /* light blue with 10% opacity */
+  background-color: var(--container-color);
 }
 
 
