@@ -474,9 +474,17 @@ body.light-theme {
   font-size: var(--tiny-font-size);
 }
 
+/* .about__description {
+  margin-bottom: 2rem;
+} */
+
 .about__description {
   margin-bottom: 2rem;
+  padding: 20px; 
+  border-radius: 10px;
+  background-color: rgba(0, 123, 255, 0.1); /* light blue with 10% opacity */
 }
+
 
 /*=============== SKILLS ===============*/
 .skills__container {
