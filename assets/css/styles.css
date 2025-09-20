@@ -1246,17 +1246,9 @@ body.light-theme {
   display: block;          /* ensures margin works */
   margin-top: 20px;
   padding: 10px 20px;
-  border-radius: 8px;
-  background: #007bff;
-  color: #fff;
-  text-decoration: none;
-  width: fit-content;      /* so it doesn’t stretch full width */
-  transition: background 0.3s ease;
+  border-radius: 10px;
 }
 
-.about__button-contact:hover {
-  background: #0056b3;
-}
 
 
 
