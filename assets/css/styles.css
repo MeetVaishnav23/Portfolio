@@ -1242,5 +1242,21 @@ body.light-theme {
   margin-bottom: 10px;
 }
 
+  .about__button-contact {
+  display: inline-block;
+  margin-top: 20px;   /* add spacing above the button */
+  padding: 10px 20px;
+  border-radius: 8px;
+  background: #007bff;   /* button color */
+  color: #fff;
+  text-decoration: none;
+  transition: background 0.3s ease;
+}
+
+.about__button-contact:hover {
+  background: #0056b3;   /* hover effect */
+}
+
+
   
 }
